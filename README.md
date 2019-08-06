@@ -1,5 +1,5 @@
 # Twitter Mass Unfollow
-A quick a dirty script to unfollow everyone in on your Twitter account.
+A quick a dirty script to unfollow everyone you currently follow on Twitter.
 Keys can be found at developer.twitter.com
 
 ## WARNING
@@ -16,3 +16,4 @@ Upon executing the unfollow.py script, there is no confirmation. Unfollowing beg
 2) Add confirmation
 3) Remove key.py and have it's creation and configuration handled by the script.
 4) Cleanup the output.
+5) Exceptions list
