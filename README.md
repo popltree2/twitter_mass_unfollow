@@ -13,7 +13,7 @@ Upon executing the unfollow.py script, there is no confirmation. Unfollowing beg
 
 ### Improvements to be made
 1) Add a requirements file
-2) Add confirmation
+2) ~Add confirmation~
 3) Remove key.py and have it's creation and configuration handled by the script.
-4) Cleanup the output.
+4) ~Cleanup the output~
 5) Exceptions list
