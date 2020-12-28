@@ -11,6 +11,9 @@ Upon executing the unfollow.py script, there is no confirmation. Unfollowing beg
 3) Ensure you have the tweepy python library installed ("pip install tweepy" should do it)
 4) Run python unfollow.py. 
 
+### Usaage
+1) The script's destroy line is commented out by default. It's best to do one no-op run then un-comment the line and run it again.
+
 ### Improvements to be made
 1) Add a requirements file
 2) ~Add confirmation~
