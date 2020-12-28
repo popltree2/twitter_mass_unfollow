@@ -8,7 +8,7 @@ Upon executing the unfollow.py script, there is no confirmation. Unfollowing beg
 ### Setup
 1) Clone down this repo
 2) Update the keys.py file with your relevant info (your screen name, auth keys, etc.)
-3) Ensure you have the tweepy python library installed (pip install tweepy should do it)
+3) Ensure you have the tweepy python library installed ("pip install tweepy" should do it)
 4) Run python unfollow.py. 
 
 ### Improvements to be made
